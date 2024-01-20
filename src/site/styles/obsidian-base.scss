@@ -90,7 +90,7 @@ body {
     --embed-block-shadow-hover: 0 0 0 1px var(--background-modifier-border),
       inset 0 0 0 1px var(--background-modifier-border);
     /* File layout */
-    --file-line-width: 700px;
+    --file-line-width: 950px;
     --file-folding-offset: 24px;
     --file-margins: var(--size-4-8);
     --file-header-font-size: var(--font-ui-small);
@@ -292,7 +292,7 @@ body {
     --popover-pdf-height: 800px;
     --popover-font-size: var(--font-text-size);
     /* Prompts - e.g. quick switcher, command palette */
-    --prompt-width: 700px;
+    --prompt-width: 950px;
     --prompt-max-width: 80vw;
     --prompt-max-height: 70vh;
     --prompt-border-width: var(--border-width);
@@ -376,7 +376,7 @@ body {
     --tab-width: 200px;
     --tab-max-width: 320px;
     /* Stacked tabs */
-    --tab-stacked-pane-width: 700px;
+    --tab-stacked-pane-width: 950px;
     --tab-stacked-header-width: var(--header-height);
     --tab-stacked-font-size: var(--font-ui-small);
     --tab-stacked-font-weight: 400;
@@ -1992,7 +1992,7 @@ body {
     max-width: 600px;
   }
   .modal.mod-trust-folder {
-    max-width: 700px;
+    max-width: 950px;
   }
   .modal.mod-settings .vertical-tab-header {
     flex: 0 0 25%;
