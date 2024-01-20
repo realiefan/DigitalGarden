@@ -13,8 +13,8 @@ Welcome to my blog! Explore insights, tips, and updates related to Cloud Computi
 In this post, we delve into the world of scalability using AWS EC2 instances and Auto Scaling. Discover how to design and implement scalable architectures to meet the demands of growing applications.
 
 Read more:
-- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 - [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]]
+- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 
 { .block-language-dataview}
 
@@ -23,8 +23,8 @@ Read more:
 Security is paramount in the cloud. Learn the best practices for Identity and Access Management (IAM) on AWS, including policies, roles, and ensuring the confidentiality and integrity of your resources.
 
 Read more:
-- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 - [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]]
+- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 
 { .block-language-dataview}
 
@@ -33,8 +33,8 @@ Read more:
 Explore the world of infrastructure as code with AWS CloudFormation. Learn how to define and provision AWS infrastructure in a secure and scalable manner, ensuring your applications remain resilient.
 
 Read more:
-- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 - [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]]
+- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 
 { .block-language-dataview}
 
@@ -45,8 +45,8 @@ Read more:
 Unlock the power of automation in AWS using Python scripting. This blog post covers practical examples and tips for automating common tasks, saving you time and ensuring consistency in your cloud environment.
 
 Read more:
-- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 - [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]]
+- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 
 { .block-language-dataview}
 
@@ -55,8 +55,8 @@ Read more:
 A deep dive into essential Linux administration tips and tricks. Whether you're a seasoned Linux user or just starting, these insights will help you optimize your system, enhance security, and streamline your workflow.
 
 Read more:
-- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 - [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]]
+- [[Projects/Cloud architecture guide\|Cloud architecture guide]]
 
 { .block-language-dataview}
 
@@ -67,8 +67,8 @@ Read more:
 Embark on a journey into the fascinating world of Artificial Intelligence. This blog post provides an introduction to key AI concepts, applications, and their impact on various industries.
 
 Read more:
-- [[Projects/Artificial intelligent guide\|Artificial intelligent guide]]
 - [[Projects/Large machine learning models\|Large machine learning models]]
+- [[Projects/Artificial intelligent guide\|Artificial intelligent guide]]
 
 { .block-language-dataview}
 
@@ -76,8 +76,8 @@ Read more:
 
 Explore practical applications of Machine Learning in real-world scenarios. From predictive analytics to image recognition, this post showcases how ML is transforming industries.
 
-- [[Projects/Artificial intelligent guide\|Artificial intelligent guide]]
 - [[Projects/Large machine learning models\|Large machine learning models]]
+- [[Projects/Artificial intelligent guide\|Artificial intelligent guide]]
 
 { .block-language-dataview}
 ## Stay Connected
