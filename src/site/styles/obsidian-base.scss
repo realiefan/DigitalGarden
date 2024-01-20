@@ -327,9 +327,9 @@ body {
     --size-4-4: 16px;
     --size-4-5: 20px;
     --size-4-6: 24px;
-    --size-4-8: 32px;
-    --size-4-9: 36px;
-    --size-4-12: 48px;
+    --size-4-8: 8px;
+    --size-4-9: 8px;
+    --size-4-12: 8px;
     --size-4-16: 64px;
     --size-4-18: 72px;
     /* Sidebar */
@@ -622,6 +622,7 @@ body {
     --font-monospace: var(--font-monospace-override), var(--font-monospace-theme), var(--font-monospace-default);
     --font-text-size: 16px;
     --font-mermaid: var(--font-text);
+      zoom: 85%;
   }
   @media print {
     html,
