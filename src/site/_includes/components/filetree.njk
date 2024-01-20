@@ -20,6 +20,24 @@
             {% endif %}
         </div>
         {%endif%}
+
+         {%if settings.dgShowToc === true%}
+                        {%set tocHtml= (content and (content|toc)) %}
+                        {%if tocHtml %}
+                              <div class="toc">
+                                    <div class="toc-title-container">
+                                          <div class="toc-title">
+                                                On this page
+                                          </div>
+                                    </div>
+                                    <div class="toc-container">
+                                          {{ tocHtml | safe }}
+                                    </div>
+                              </div>
+                        {%endif%}
+
+                  {%endif%}
+
     {% endmacro %}
     
     <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
