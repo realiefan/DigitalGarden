@@ -161,3 +161,4 @@ document.body.appendChild(newElement);
 ```
 
 This documentation provides a foundation for working with JavaScript, covering variables, data types, operators, control flow, functions, objects, arrays, asynchronous JavaScript, event handling, and DOM manipulation. Real-life examples demonstrate how to apply these concepts in practice.
+
