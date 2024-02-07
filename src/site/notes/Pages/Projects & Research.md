@@ -94,5 +94,6 @@ Happy reading!
 | [[Projects/Large machine learning models\|Large machine learning models]]           | <ul><li>#ai</li></ul>    |
 | [[Projects/Cloud architecture guide\|Cloud architecture guide]]                     | <ul><li>#cloud</li></ul> |
 | [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]] | <ul><li>#cloud</li></ul> |
+| [[Projects/The-Republic-by-Plato-summary\|The-Republic-by-Plato-summary]]           | <ul></ul>                |
 
 { .block-language-dataview}
