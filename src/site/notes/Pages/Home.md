@@ -74,5 +74,6 @@ Feel free to reach out to me:
 | [[Projects/Large machine learning models\|Large machine learning models]]           |
 | [[Projects/Cloud architecture guide\|Cloud architecture guide]]                     |
 | [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]] |
+| [[Projects/The-Republic-by-Plato-summary\|The-Republic-by-Plato-summary]]           |
 
 { .block-language-dataview}
