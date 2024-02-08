@@ -95,5 +95,6 @@ Happy reading!
 | [[Projects/Cloud architecture guide\|Cloud architecture guide]]                     | <ul><li>#cloud</li></ul> |
 | [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]] | <ul><li>#cloud</li></ul> |
 | [[Projects/The-Republic-by-Plato-summary\|The-Republic-by-Plato-summary]]           | <ul></ul>                |
+| [[Projects/sapiens-summary\|sapiens-summary]]                                       | <ul></ul>                |
 
 { .block-language-dataview}
