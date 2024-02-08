@@ -3,7 +3,6 @@
 ---
 
 # Iefan - Cloud Solution Architect
-
 ##### Cloud Solution Architect | Linux Administrator | Developer
 ### [[Pages/Projects & Research\|Projects & Research]] 
 ## About Me
