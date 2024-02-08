@@ -75,5 +75,6 @@ Feel free to reach out to me:
 | [[Projects/Cloud architecture guide\|Cloud architecture guide]]                     |
 | [[Projects/Serverless architecture with cloud\|Serverless architecture with cloud]] |
 | [[Projects/The-Republic-by-Plato-summary\|The-Republic-by-Plato-summary]]           |
+| [[Projects/sapiens-summary\|sapiens-summary]]                                       |
 
 { .block-language-dataview}
