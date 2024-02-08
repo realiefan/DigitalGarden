@@ -136,6 +136,6 @@ This is my book summary of Sapiens by Yuval Noah Harari. My notes are informal a
 - Many people think the question we should ask to guide our scientific pursuits is, “What do we want to become?” However, because we seem to be on the path to genetically engineering and programming nearly every facets of our wants, desires, and consciousness, the real question we should ask is, “What do we want to want?”
 - In the past 1000 years, humans have evolved to take over the world and are on the verge of overcoming natural selection and becoming gods. Yet, we still seem unhappy in many ways and we are unsure of what we want. Is there anything more dangerous that dissatisfied and irresponsible gods who don’t know what they want?
 
-
+![[https://cdn.satellite.earth/4bfcdd44108418167cfe7aae675d8c17af5e8c55b8da300072dc9a68b94494ec.mp3\|https://cdn.satellite.earth/4bfcdd44108418167cfe7aae675d8c17af5e8c55b8da300072dc9a68b94494ec.mp3]]
 
 ![[Summary of Sapiens by Yuval Noah Harari.mp3]]
