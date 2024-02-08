@@ -4,8 +4,8 @@
 
 # Iefan - Cloud Solution Architect
 
-*Cloud Solution Architect | Linux Administrator | Developer*
-##### [[Pages/Projects & Research\|Projects & Research]] 
+##### Cloud Solution Architect | Linux Administrator | Developer
+### [[Pages/Projects & Research\|Projects & Research]] 
 ## About Me
 
 Versatile professional with over 4 years of hands-on experience in designing, developing, and managing scalable and secure applications using cutting-edge AWS and Linux technologies.
